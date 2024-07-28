@@ -21,7 +21,7 @@ html,body{
     padding-top: 9px;
 }
 .side-bar{
-    background-color: #F8EDE3;
+    background-color: lightgray;
     width:130px;
     height: 560px;
     float: left;
